@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/MapaDoJogo.unity
+    guid: 90cc56f39fe9cb94582ee15938db66b4
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase1.unity
+    guid: e0de1f4ddd2439745b74c6859647df86
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase2.unity
+    guid: d2e6f2cdcb3573b43a9e069949d16190
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase3.unity
+    guid: 861e903ed4138a74a822428319de3c6f
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase4.unity
+    guid: 0862362aaadb3c549b9eb48e2a9b04c8
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase5.unity
+    guid: 606cfa71f5f66324b9c8985863348689
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase6.unity
+    guid: 05de3ce398473df439102e11556f8876
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase7.unity
+    guid: eece6c63ec610ca4cb35787217a655d6
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase8.unity
+    guid: db08690070c788e4dab86ded9cecf601
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase9.unity
+    guid: 431089f25eaa281448affb06483f0ae7
+  - enabled: 1
+    path: Assets/Scenes/SistemadeSave/Fase10.unity
+    guid: 6284b3680a1e3ff47b11dc79fa012582
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
